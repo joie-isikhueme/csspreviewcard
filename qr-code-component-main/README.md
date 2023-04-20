@@ -25,6 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/joie-isikhueme/csspreviewcard](https://github.com/joie-isikhueme/csspreviewcard)
+- Live Site URL: [csspreviewcard-e4fmdfxkq-joie-isikhueme.vercel.app](csspreviewcard-e4fmdfxkq-joie-isikhueme.vercel.app)
 
 
 ## My process
